@@ -1,0 +1,19 @@
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Creating a log file with dummy data of size ~ 10MB
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Log file successfully created with dummy data!
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Time taken for creating logs is : 4 ms
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Procesing the log file with dummy data -
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Processing successfully completed!
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Time taken for processing logs is : 2008 ms
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Printing the stats based on dates -
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 400 - 1
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 401 - 3
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 404 - 2
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 500 - 2
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 405 - 2
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 502 - 1
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 503 - 1
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 408 - 2
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 511 - 2
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Printing successfully completed!
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Time taken for printing stats is : 1 ms
+

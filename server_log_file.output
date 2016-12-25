@@ -1,0 +1,58 @@
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Creating a log file with dummy data of size ~ 10MB
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Log file successfully created with dummy data!
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Time taken for creating logs is : 169 ms
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Procesing the log file with dummy data -
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Processing successfully completed!
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Time taken for processing logs is : 2424 ms
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Printing the stats based on dates -
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-11 : 400 - 2292
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-11 : 401 - 2359
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-11 : 403 - 2364
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-11 : 404 - 2318
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-11 : 500 - 2332
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-11 : 405 - 2358
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-11 : 502 - 2292
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-11 : 503 - 2349
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-11 : 408 - 2311
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-11 : 504 - 2277
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-11 : 511 - 2322
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-11 : 415 - 2396
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-12 : 400 - 2023
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-12 : 401 - 1926
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-12 : 403 - 1951
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-12 : 500 - 1895
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-12 : 404 - 2015
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-12 : 405 - 1962
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-12 : 502 - 2029
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-12 : 503 - 1963
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-12 : 408 - 1982
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-12 : 504 - 1990
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-12 : 415 - 1888
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-12 : 511 - 1990
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 400 - 3005
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 401 - 3064
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 403 - 3020
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 404 - 3091
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 500 - 3055
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 405 - 3091
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 502 - 3043
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 503 - 3139
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 504 - 3001
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 408 - 3029
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 415 - 3061
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-10 : 511 - 3054
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-13 : 400 - 1581
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-13 : 401 - 1629
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-13 : 403 - 1599
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-13 : 404 - 1636
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-13 : 500 - 1589
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-13 : 405 - 1653
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-13 : 502 - 1566
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-13 : 503 - 1628
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-13 : 408 - 1600
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-13 : 504 - 1613
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-13 : 415 - 1636
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - 2016-12-13 : 511 - 1633
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Printing successfully completed!
+[main] INFO com.redbus.assignment.logserrorfinder.main.LogsErrorFinderMain - Time taken for printing stats is : 3 ms
+
